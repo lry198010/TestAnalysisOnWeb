@@ -1,4 +1,5 @@
 library(shiny)
+library(RSQLite)
 
 area <- list("贵阳一中"="001","中天中学"="002")
 
